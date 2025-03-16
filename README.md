@@ -35,22 +35,14 @@
 **Languages:**  
 `C#` | `Python` | `JavaScript` | `TypeScript` | `R` | `SQL`
 
-![C#](https://img.shields.io/badge/C%23-%2300599C.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
 **Frameworks & Libraries:**  
 `React` | `Node.js` | `Express.js` | `Spring Boot` | `.NET` | `Redux`
-
-![React](https://img.shields.io/badge/React-%2300D8FF.svg?style=flat&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
 
 **Databases:**  
 `MongoDB` | `MS SQL` | `MySQL` | `Firebase`
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
 **Tools & Platforms:**  
 `AWS` | `Docker` | `Postman` | `Git` | `Jira` | `SourceTree`
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -70,21 +62,20 @@
 
 ---
 
+### 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://github.com/virushere/virushere/blob/main/Vyas_Yash_Resume.pdf)
+
+---
+
 ### 📨 Let's Connect
 
 - **[LinkedIn](https://www.linkedin.com/in/yashvyas1104/)**  
 - **[Portfolio](https://yashvyas-portfolio.netlify.app/)**  
-- **Email:** vyas.yash@northeastern.edu  
+- **Email:** [vyas.yash@northeastern.edu](mailto:vyas.yash@northeastern.edu)  
 
 ---
 
 ### 🎯 Fun Fact
 
 No developer has ever written a code without **Bugs.**
-
-
-
-<!---
-virushere/virushere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
